@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 et bienvenue sur ma page github
+
+### I help businesses build scalable and cost-effective data solutions and also spend alot of off-work hours mentoring and teaching graaduate student from Ghana data relevant skills (SQL,TABLEAU,PYTHON etc.)
 
 <!--
 **Dconesoko/Dconesoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
